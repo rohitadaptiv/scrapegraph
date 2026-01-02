@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+*.json
+!smart_scraper_result.json
+!search_graph_result.json
+!smart_scraper_multi_result.json

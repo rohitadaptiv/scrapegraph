@@ -1,0 +1,170 @@
+{
+  "result": {
+    "destinations": [
+      {
+        "name": "Shimla",
+        "location": "Himachal Pradesh",
+        "description": "Queen of hill stations.",
+        "highlights": "Famous for its colonial architecture and natural beauty."
+      },
+      {
+        "name": "Manali",
+        "location": "Himachal Pradesh",
+        "description": "Popular hill station known for skiing.",
+        "highlights": "Renowned for its snow-covered mountains and adventure sports."
+      },
+      {
+        "name": "Mussoorie",
+        "location": "Uttarakhand",
+        "description": "A picturesque hill station.",
+        "highlights": "Known as the Queen of Hill Stations, offers commanding views of the Doon Valley."
+      },
+      {
+        "name": "Nainital",
+        "location": "Uttarakhand",
+        "description": "Famous for its scenic lake.",
+        "highlights": "Known for boating and surrounded by emerald green mountains."
+      },
+      {
+        "name": "Darjeeling",
+        "location": "West Bengal",
+        "description": "Known for its tea gardens.",
+        "highlights": "Offers breathtaking views of the Himalayas and famous for its tea."
+      },
+      {
+        "name": "Gangtok",
+        "location": "Sikkim",
+        "description": "Gateway to beautiful landscapes.",
+        "highlights": "Known for its monasteries and views of Kanchenjunga."
+      },
+      {
+        "name": "Dalhousie",
+        "location": "Himachal Pradesh",
+        "description": "Historic hill station.",
+        "highlights": "Known for its Victorian architecture and scenic beauty."
+      },
+      {
+        "name": "Kullu",
+        "location": "Himachal Pradesh",
+        "description": "Famous for its valleys and adventure sports.",
+        "highlights": "Offers various trekking and rafting opportunities."
+      },
+      {
+        "name": "Ooty",
+        "location": "Tamil Nadu",
+        "description": "Queen of hill stations in the Nilgiris.",
+        "highlights": "Known for its gardens, colonial charm, and picturesque landscapes."
+      },
+      {
+        "name": "Kodaikanal",
+        "location": "Tamil Nadu",
+        "description": "Known for its serene lakes and hills.",
+        "highlights": "Famous for its pleasant climate and natural beauty."
+      },
+      {
+        "name": "Munnar",
+        "location": "Kerala",
+        "description": "A popular honeymoon destination.",
+        "highlights": "Known for its tea estates and beautiful waterfalls."
+      },
+      {
+        "name": "Coorg",
+        "location": "Karnataka",
+        "description": "Scotland of India.",
+        "highlights": "Famous for its coffee plantations and stunning waterfalls."
+      },
+      {
+        "name": "Chikmagalur",
+        "location": "Karnataka",
+        "description": "Scenic hill town.",
+        "highlights": "Known for its coffee production and natural beauty."
+      },
+      {
+        "name": "Mahabaleshwar",
+        "location": "Maharashtra",
+        "description": "Popular hill station in Maharashtra.",
+        "highlights": "Famous for its strawberry farms and pleasant weather."
+      },
+      {
+        "name": "Srinagar",
+        "location": "Jammu & Kashmir",
+        "description": "Best known for its natural allure.",
+        "highlights": "Features historic gardens and tranquility."
+      },
+      {
+        "name": "Auli",
+        "location": "Uttarakhand",
+        "description": "Famous for skiing.",
+        "highlights": "Offers beautiful landscapes and a tranquil ambiance."
+      },
+      {
+        "name": "Shillong",
+        "location": "Meghalaya",
+        "description": "A picturesque hill station.",
+        "highlights": "Known as the Scotland of the East for its scenic landscapes."
+      },
+      {
+        "name": "Leh-Ladakh",
+        "location": "Jammu & Kashmir",
+        "description": "Famed for stunning landscapes.",
+        "highlights": "Offers both thrill and tranquility."
+      },
+      {
+        "name": "Mount Abu",
+        "location": "Rajasthan",
+        "description": "Known for its lush green environment.",
+        "highlights": "The only hill station in Rajasthan."
+      },
+      {
+        "name": "Tirthan Valley",
+        "location": "Himachal Pradesh",
+        "description": "A hidden gem known for natural beauty.",
+        "highlights": "Offers rich tranquility and scenic views."
+      }
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_hill_stations_in_India",
+      "https://www.trawell.in/india/hill-stations",
+      "https://thewandertherapy.com/best-hill-stations-for-summer-vacations-in-india/",
+      "https://traveltriangle.com/blog/best-hill-stations-in-india/"
+    ]
+  },
+  "execution_info": [
+    {
+      "node_name": "SearchInternet",
+      "total_tokens": 158,
+      "prompt_tokens": 151,
+      "completion_tokens": 7,
+      "successful_requests": 1,
+      "total_cost_USD": 2.685e-05,
+      "exec_time": 3.9151790142059326
+    },
+    {
+      "node_name": "GraphIterator",
+      "total_tokens": 120884,
+      "prompt_tokens": 117520,
+      "completion_tokens": 3364,
+      "successful_requests": 4,
+      "total_cost_USD": 0.019646399999999998,
+      "exec_time": 27.451011180877686
+    },
+    {
+      "node_name": "MergeAnswers",
+      "total_tokens": 4235,
+      "prompt_tokens": 3242,
+      "completion_tokens": 993,
+      "successful_requests": 1,
+      "total_cost_USD": 0.0010821,
+      "exec_time": 15.882874011993408
+    },
+    {
+      "node_name": "TOTAL RESULT",
+      "total_tokens": 125277,
+      "prompt_tokens": 120913,
+      "completion_tokens": 4364,
+      "successful_requests": 6,
+      "total_cost_USD": 0.020755349999999995,
+      "exec_time": 47.249064207077026
+    }
+  ]
+}

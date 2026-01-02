@@ -1,0 +1,83 @@
+{
+  "result": {
+    "destinations": [
+      {
+        "Name": "Jaipur",
+        "Country / State": "India / Rajasthan",
+        "Description": "Planned by Vidyadhar Bhattacharya, Jaipur holds the distinction of being the first planned city of India. Renowned globally for its coloured gems, the capital city of Rajasthan combines the allure of its ancient history with all the advantages of a metropolis. The bustling modern city is one of the three corners of the golden triangle that includes Delhi, Agra and Jaipur.",
+        "Top attractions": [
+          "Amber Palace",
+          "City Palace",
+          "Hawa Mahal",
+          "Jaipur Wax Museum",
+          "Jantar Mantar",
+          "Nahargarh Fort",
+          "Jaigarh Fort",
+          "Gaitore",
+          "Samode",
+          "Central Park",
+          "Amer Fort",
+          "Jal Mahal",
+          "Diggi Palace",
+          "Rambagh Palace",
+          "Man Sagar Lake",
+          "Digamber Jain Temple",
+          "Birla Mandir",
+          "Galtaji",
+          "Albert Hall Museum",
+          "Jaipur Zoo"
+        ],
+        "Best time to visit": "October to March",
+        "Budget category": "Mid-range to High"
+      },
+      {
+        "Name": "Chokhi Dhani Village",
+        "Country / State": "India / Rajasthan",
+        "Description": "Immerse yourself in the vibrant and traditional lifestyle of Rajasthan. Chokhi Dhani is designed as a village to recreate an example of what life is like in rural Rajasthan. It features live folk dances, puppet shows, and an opportunity to enjoy camel rides or elephant joy rides.",
+        "Top attractions": [
+          "Best Rajasthani Thali",
+          "Camel Rides",
+          "Elephant Joy Rides",
+          "Live Folk Dances",
+          "Puppet Shows"
+        ],
+        "Best time to visit": "Evening (5 PM to 10 PM)",
+        "Budget category": "\u20b9900 for adults, \u20b9550 for kids"
+      }
+    ],
+    "sources": [
+      "https://www.tourism.rajasthan.gov.in/jaipur.html",
+      "https://chokhidhani.com/tourist-places-in-jaipur/?gad_source=1&gad_campaignid=23196308879&gbraid=0AAAAADluP-89THjmczrV0Vv0dlQyqvxkj&gclid=CjwKCAiAjc7KBhBvEiwAE2BDOfhX4yBluoRMPic9thBmY16J4zcAf86T7KbupvEbhx_uycXDWKLG1hoCnDcQAvD_BwE",
+      "https://en.wikipedia.org/wiki/List_of_tourist_attractions_in_Jaipur"
+    ]
+  },
+  "execution_info": [
+    {
+      "node_name": "GraphIterator",
+      "total_tokens": 76985,
+      "prompt_tokens": 76493,
+      "completion_tokens": 492,
+      "successful_requests": 3,
+      "total_cost_USD": 0.011769149999999999,
+      "exec_time": 28.46986484527588
+    },
+    {
+      "node_name": "MergeAnswers",
+      "total_tokens": 1102,
+      "prompt_tokens": 670,
+      "completion_tokens": 432,
+      "successful_requests": 1,
+      "total_cost_USD": 0.00035969999999999996,
+      "exec_time": 9.162724733352661
+    },
+    {
+      "node_name": "TOTAL RESULT",
+      "total_tokens": 78087,
+      "prompt_tokens": 77163,
+      "completion_tokens": 924,
+      "successful_requests": 4,
+      "total_cost_USD": 0.012128849999999998,
+      "exec_time": 37.63258957862854
+    }
+  ]
+}

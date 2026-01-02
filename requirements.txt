@@ -1,0 +1,4 @@
+scrapegraphai==1.69.0
+playwright==1.57.0
+pydantic==2.12.5
+python-dotenv

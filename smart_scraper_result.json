@@ -1,0 +1,61 @@
+{
+  "result": {
+    "content": {
+      "Destination name": "Jaipur",
+      "Country / State": "Rajasthan, India",
+      "Short description": "The Pink City, planned by Vidyadhar Bhattacharya, is known for its colorful gems and combines ancient history with modern metropolis advantages.",
+      "Top attractions": [
+        "Amber Palace",
+        "Hawa Mahal",
+        "City Palace",
+        "Jantar Mantar",
+        "Nahargarh Fort",
+        "Jaigarh Fort",
+        "Jal Mahal",
+        "Albert Hall Museum",
+        "Birla Temple",
+        "Govind Devji Temple"
+      ],
+      "Ideal budget range": "NA",
+      "Best time to visit": "NA"
+    }
+  },
+  "execution_info": [
+    {
+      "node_name": "Fetch",
+      "total_tokens": 0,
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "successful_requests": 0,
+      "total_cost_USD": 0.0,
+      "exec_time": 7.629763841629028
+    },
+    {
+      "node_name": "ParseNode",
+      "total_tokens": 0,
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "successful_requests": 0,
+      "total_cost_USD": 0.0,
+      "exec_time": 1.1929631233215332
+    },
+    {
+      "node_name": "GenerateAnswer",
+      "total_tokens": 61035,
+      "prompt_tokens": 60882,
+      "completion_tokens": 153,
+      "successful_requests": 1,
+      "total_cost_USD": 0.009224099999999999,
+      "exec_time": 8.0645911693573
+    },
+    {
+      "node_name": "TOTAL RESULT",
+      "total_tokens": 61035,
+      "prompt_tokens": 60882,
+      "completion_tokens": 153,
+      "successful_requests": 1,
+      "total_cost_USD": 0.009224099999999999,
+      "exec_time": 16.88731813430786
+    }
+  ]
+}
