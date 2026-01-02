@@ -11,7 +11,8 @@ load_dotenv()
 ollama_config = {
     "llm": {
         "model": "ollama/llama3.1",
-        "model_tokens": 8192
+        "model_tokens": 8192,
+        "base_url": os.getenv("OLLAMA_BASE_URL", "http://localhost:11434")
     },
     "headless": True,
     "verbose": True
